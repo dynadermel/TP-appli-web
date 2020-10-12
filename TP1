@@ -1,1 +1,140 @@
 
+   <html>
+
+
+<head>
+
+    <meta charset="utf-8">
+     <meta http-equiv="x-ua-compatible" content="ie=edge">
+     <title>CV</title>
+
+</head>
+
+<body>
+
+ <h1>TP1</h1>
+  <p>Hello world! This is HTML5 Boilerplate.</p>
+ 
+  <table>
+
+     <tr>
+<td>Dyna DERMEL</td>
+<td>Célibataire</td>
+     </tr>      
+    
+       <tr>
+<td>92500</td>
+<td>PermisB</td>
+       </tr>    
+
+    <tr>
+<td>0666****9</td>
+      </tr>    
+      <tr>
+<td>dyna.dermel9608@gmail.com</td>
+      </tr>
+
+</table>
+ <img src="../galilee.png" alt="Logo Galilee"/>
+    
+    <table>
+    
+    <tr>
+<h3>Ingenieurd'étude et developpement</h3>
+    </tr>
+
+    </table>
+
+    <table>
+
+   <tr>
+<h1>Formation</h1>
+   </tr>
+
+   <tr>
+<td>2019-2021</td>
+<td>MASTER 3IR à l'université Paris XIII</td>
+   </tr>
+
+<tr>
+<td>2017-2019</td>
+<td>LICENCE en scienge de l'ingenieur à l'université Paris XIII</td>
+   </tr>
+
+   <tr>
+<td>2014-2017</td>
+<td>LICENCE en  électronique à l'UMMTO</td>
+   </tr>
+   
+   <tr>
+<td>2014</td>
+<td>Bac Scientifique </td>
+   </tr>
+
+   </table>
+
+   <table>
+
+    <tr>
+<h1>Compétences</h1>
+   </tr>
+
+  <tr>
+<td>Développement</td>
+<td>Java7 , HTML</td>
+   </tr>
+
+    <tr>
+<td>Base de données </td>
+<td>MySQL , PostgreSQL</td>
+   </tr>
+
+    <tr>
+<td>Réseaux</td>
+<td>IPV6, LAN, WIFI</td>
+   </tr>
+
+   <tr>
+<td>langues</td>
+<td>Anglais: bilingue , Francais: bilingue</td>
+   </tr>
+
+</table>
+
+<table>
+
+    <tr>
+<h1>Expérience</h1>
+   </tr>
+
+    <tr>
+<td>2019</td>
+<td>Projet cloud compution LTI PARIS XIII </td>
+   </tr>
+
+   <tr>
+<td>2017</td>
+<td>Stage ALGERIE TELECOM - 3 MOIS </td>
+   </tr>
+
+</table>
+
+<table>
+
+   <tr>
+<h1>Centre d'Interets</h1>
+   </tr>
+
+    <tr>
+<td>sport</td>
+<td>volley ball</td>
+   </tr>
+
+    <tr>
+<td>culture</td>
+<td>Cinéma , Musique </td>
+   </tr>
+
+ </table>
+  </body> 
+  </html>
