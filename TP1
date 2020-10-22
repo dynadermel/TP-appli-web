@@ -1,6 +1,5 @@
 
-   <html>
-
+  <html>
 
 <head>
 
@@ -12,9 +11,7 @@
 
 <body>
 
- <h1>TP1</h1>
-  <p>Hello world! This is HTML5 Boilerplate.</p>
- 
+  
   <table>
 
      <tr>
@@ -29,18 +26,20 @@
 
     <tr>
 <td>0666****9</td>
+    <td> </td>      
       </tr>    
       <tr>
-<td>dyna.dermel9608@gmail.com</td>
+        <td> <a href= dyna.dermel9608@gmail.com > dyna.dermel9608@gmail.com </a> </td>
+        <td> </td>
       </tr>
 
 </table>
- <img src="../galilee.png" alt="Logo Galilee"/>
+ 
     
     <table>
     
     <tr>
-<h3>Ingenieurd'étude et developpement</h3>
+<h1><center>Ingenieur d'étude et developpement</center></h1>
     </tr>
 
     </table>
@@ -48,22 +47,22 @@
     <table>
 
    <tr>
-<h1>Formation</h1>
+<h2>Formation</h2>
    </tr>
 
    <tr>
 <td>2019-2021</td>
-<td>MASTER 3IR à l'université Paris XIII</td>
+     <td> <a href = > MASTER 3IR </a> à l'université Paris XIII  </td>
    </tr>
 
 <tr>
 <td>2017-2019</td>
-<td>LICENCE en scienge de l'ingenieur à l'université Paris XIII</td>
+  <td> <a href = > LICENCE en science de l'ingenieur </a> à l'université Paris XIII</td>
    </tr>
 
    <tr>
 <td>2014-2017</td>
-<td>LICENCE en  électronique à l'UMMTO</td>
+     <td> <a href = > LICENCE en  électronique </a>  à l'UMMTO</td>
    </tr>
    
    <tr>
@@ -76,7 +75,7 @@
    <table>
 
     <tr>
-<h1>Compétences</h1>
+<h2>Compétences</h2>
    </tr>
 
   <tr>
@@ -104,17 +103,18 @@
 <table>
 
     <tr>
-<h1>Expérience</h1>
+<h2>Expériences</h2>
    </tr>
 
     <tr>
 <td>2019</td>
-<td>Projet cloud compution LTI PARIS XIII </td>
-   </tr>
+<td>Projet cloud compution LTI PARIS XIII <header><img src= "https://www.univ-paris13.fr/wp-content/uploads/700x370labos15.jpg" heigth= 100 width=100 alt="logo"></img></header> </td>
+   </tr> 
+ 
 
    <tr>
 <td>2017</td>
-<td>Stage ALGERIE TELECOM - 3 MOIS </td>
+<td>Stage ALGERIE TELECOM - 3 MOIS <header><img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Logo_Alg%C3%A9rie_T%C3%A9l%C3%A9com.svg/1280px-Logo_Alg%C3%A9rie_T%C3%A9l%C3%A9com.svg.png" heigth= 90 width=90 alt="logo"></img></header> </td>
    </tr>
 
 </table>
@@ -122,7 +122,7 @@
 <table>
 
    <tr>
-<h1>Centre d'Interets</h1>
+<h2>Centre d'Interets</h2>
    </tr>
 
     <tr>
