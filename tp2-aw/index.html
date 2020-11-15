@@ -11,38 +11,37 @@
 <body>
 
 <h1> Saisie d'une fiche "Personne"</h1>
+<form id = "inscription">
+  
 
-<form id="formulaire" onsubmit="validation()">
+    <label for ="nom"> Votre nom </label>
+      <input value=" " type="text" id="nom" name="nom" minlength="5" maxlength="20" /> <br>
     
-
-<label for ="nom"> Votre nom </label> <input value=" " type="text" id="nom" name="nom" minlength="5" maxlength="20" class= "formulaire" /> 
-  </br>
-
-  <label for ="prénom"> Votre prénon</label><input value=" " type="text" id="prénom" name="prénom" minlength="5"  maxlength="20" class= "formulaire" /> 
-  </br>
-
-<label for ="date"> Date </label><input placeholder="JJ/MM/AAAA" type="text" id= "Date" name="Date"   class="formilaire"/>
-<br/>
- 
-  
- <label for ="adresse"> adresse </label> <input value=" " type="text" id="adresse" name="adresse" minlength="5"  maxlength="50" class= "formulaire" /> 
-  </br>
-  
- <label for ="mail"> mail </label><input value=" " type="text" id="mail" name="mail" minlength="5"  maxlength="30" class= "formulaire" /> 
-
-   </br>
-
-<p>
-
-<input type="button" value="Valider" class= "formulaire" /> 
-</p>  
-
- </form>
-
-<div id="error"></div>
-<div id="resultat"></div>
-
- </body>
+      <label for ="prénom"> Votre prénon</label>
+      <input value=" " type="text" id="prénom" name="prénom" minlength="5"  maxlength="20"/> <br>
+    
+    <label for ="date"> Date </label>
+      <input placeholder="JJ/MM/AAAA" type="text" id= "Date" name="Date"   /> <br>
+     
+      
+     <label for ="adresse"> adresse </label> <input value=" " type="text" id="adresse" name="adresse" minlength="5"  maxlength="50"  /> <br>
+      
+     <label for ="mail"> mail </label>
+      <input value=" " type="text" id="mail" name="mail" minlength="5"  maxlength="30" /> <br>
+    
+    <p>
+    
+    <input type="button" value="Valider" /> 
+    </p>  
+    
+     </form>
+    
+    <div id="error"></div>
+    <div id="resultat"></div>
+    
+     </body>
+    
+    
 
 
  </html>
